@@ -1,6 +1,3 @@
-# Greetings, traveler 🌎
-
-I'm a geospatial web developer and React enjoyer.
 
 | Things I think are cool | Things I'm learning |
 |------------------------|---------------------|
